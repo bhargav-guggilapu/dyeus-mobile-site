@@ -1,0 +1,44 @@
+.color-shade {
+  background: linear-gradient(to bottom, black, black);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: -5px;
+}
+
+.edge-align {
+  margin: 0 35px 0 35px;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.802);
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input {
+  background-color: #a0a0a0;
+  height: 35px;
+  width: 65%;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+}
+
+button {
+  background-color: initial;
+  background: linear-gradient(to bottom right, #d5f4fb, #d5f4fb);
+  border-radius: 42px;
+  border-width: 0;
+  color: #000;
+  cursor: pointer;
+  font-family: Quicksand, sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  margin: 0;
+  padding: 5px 10px;
+  text-align: center;
+}

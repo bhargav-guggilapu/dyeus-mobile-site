@@ -1,0 +1,23 @@
+.color-shade {
+  background: linear-gradient(to bottom, #fdf6fb, #eee1f7, #ddedfa, #e7f5fc);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: -5px;
+}
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+  color: rgb(31, 52, 89);
+  font-size: 40px;
+}
+
+.edge-align {
+  margin: 0 35px 0 35px;
+}
+
+.align-center {
+  text-align: center;
+  font-weight: 100;
+  margin-top: 25px;
+  color: rgba(0, 0, 0, 0.796);
+}
